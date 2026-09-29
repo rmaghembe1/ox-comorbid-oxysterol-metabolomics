@@ -16,10 +16,14 @@ authors:
   - family-names: Damian
     given-names: Donath
     orcid: "https://orcid.org/0009-0005-6038-766X"
+repository-code: "https://github.com/rmaghembe1/ox-comorbid-oxysterol-metabolomics"
+url: "https://github.com/rmaghembe1/ox-comorbid-oxysterol-metabolomics"
 keywords:
   - oxysterols
   - metabolomics
   - hypercholesterolaemia
   - longitudinal analysis
   - permutation inference
+  - multivariate analysis
   - reproducibility
+abstract: "Computational reproducibility package for a calibration-constrained longitudinal reanalysis of publicly available five-channel oxysterol analytical-response data."

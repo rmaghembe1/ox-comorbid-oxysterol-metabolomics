@@ -78,10 +78,16 @@ repository. See `SOURCE_DATA.md`.
 
 ## Release status
 
-This is a local public-release candidate for version `v1.0.0`.
+A private GitHub staging repository has been created at:
 
-Public release remains **HOLD** until the repository licensing decision
-is explicitly locked and the GitHub/Zenodo metadata are finalized.
+`https://github.com/rmaghembe1/ox-comorbid-oxysterol-metabolomics`
+
+The repository currently remains private while release metadata and
+integrity checks are finalized.
+
+No public `v1.0.0` tag, GitHub Release or Zenodo DOI is claimed until
+those release steps have actually completed and been independently
+verified.
 
 ## Licensing
 
@@ -99,9 +105,16 @@ The original Mendeley workbook is not redistributed.
 
 ## Public release route
 
-The planned public release route is:
+The governed release route is:
 
-1. GitHub repository;
-2. immutable GitHub release `v1.0.0`;
-3. Zenodo archival with explicit mixed-license metadata;
-4. DOI verification before manuscript v3 is generated.
+1. finalize and freeze release metadata while the GitHub repository is private;
+2. verify the release-facing metadata commit on both local and remote `main`;
+3. make the GitHub repository public;
+4. create the immutable GitHub release `v1.0.0`;
+5. deposit the exact immutable release archive to Zenodo;
+6. explicitly declare the repository's mixed licenses in the Zenodo record;
+7. verify the version-specific Zenodo DOI and archived payload;
+8. insert the verified GitHub URL and Zenodo DOI into manuscript v3.
+
+The original Mendeley workbook is referenced by DOI and checksum and is
+not redistributed in this repository.
