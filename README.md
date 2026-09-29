@@ -78,16 +78,25 @@ repository. See `SOURCE_DATA.md`.
 
 ## Release status
 
-A private GitHub staging repository has been created at:
+The public repository is:
 
 `https://github.com/rmaghembe1/ox-comorbid-oxysterol-metabolomics`
 
-The repository currently remains private while release metadata and
-integrity checks are finalized.
+The immutable first public release is `v1.0.0`. Version `v1.0.1`
+is a maintenance update aligning the public presentation of Figures
+2, 3 and 5 with the final manuscript visual-QA state.
 
-No public `v1.0.0` tag, GitHub Release or Zenodo DOI is claimed until
-those release steps have actually completed and been independently
-verified.
+The v1.0.1 update does not alter source data, analytical values,
+statistical tests, p-values, multiplicity procedures, scientific
+interpretations or conclusions.
+
+The prior v1.0.0 Zenodo record is:
+
+`https://zenodo.org/records/23032493`
+
+A version-specific v1.0.1 Zenodo identifier is not predeclared in this
+package and must be taken from the verified version record after
+publication.
 
 ## Licensing
 
@@ -103,18 +112,18 @@ See `LICENSE.md`, `LICENSE_MAP.tsv`, and
 
 The original Mendeley workbook is not redistributed.
 
-## Public release route
+## Versioned update route
 
-The governed release route is:
+The governed v1.0.1 route is:
 
-1. finalize and freeze release metadata while the GitHub repository is private;
-2. verify the release-facing metadata commit on both local and remote `main`;
-3. make the GitHub repository public;
-4. create the immutable GitHub release `v1.0.0`;
-5. deposit the exact immutable release archive to Zenodo;
-6. explicitly declare the repository's mixed licenses in the Zenodo record;
-7. verify the version-specific Zenodo DOI and archived payload;
-8. insert the verified GitHub URL and Zenodo DOI into manuscript v3.
+1. materialize and validate v1.0.1 metadata and provenance;
+2. validate the complete 152-file release stage;
+3. construct and independently verify the immutable v1.0.1 archive;
+4. commit and verify the versioned repository delta;
+5. create and verify the immutable GitHub `v1.0.1` tag and Release;
+6. create a new Zenodo version from the established v1.0.0 record;
+7. deposit and independently verify the exact immutable v1.0.1 archive.
 
-The original Mendeley workbook is referenced by DOI and checksum and is
-not redistributed in this repository.
+The existing v1.0.0 GitHub tag, GitHub Release and Zenodo record remain
+immutable historical release objects.
+

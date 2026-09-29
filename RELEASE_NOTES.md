@@ -1,54 +1,55 @@
-# Version 1.0.0 release notes
+# Version 1.0.1 release notes
 
 ## OX-COMORBID oxysterol-metabolomics reproducibility package
 
-Version `v1.0.0` is the planned first public reproducibility release for:
+Version `v1.0.1` is a maintenance update to the immutable `v1.0.0`
+public reproducibility release.
 
-**Calibration-constrained longitudinal oxysterol metabolomics reveals
-coordinated remodeling of multivariate response architecture in
-hypercholesterolaemia**
+## Changes in v1.0.1
 
-The package contains computational analysis code, frozen statistical
-result surfaces, authoritative publication figures, provenance records,
-integrity manifests, authorship metadata and environment information.
+- Replaced the public PNG, PDF and TIFF assets for Figures 2, 3 and 5
+  with the final manuscript visual-QA layouts.
+- Added the final layout-corrected publication-figure generator under a
+  new versioned R3G11 path.
+- Added a v1.0.1 final publication-figure manifest and layout-update
+  provenance ledger.
+- Regenerated release-facing metadata and integrity manifests.
+- Preserved the established public-package policy of no SVG files.
+- Preserved the historical R2Z generator and R2Z/R3A manifests as
+  historical provenance records.
 
 ## Scientific boundary
 
-The release concerns secondary computational analysis of previously
-generated public digital metabolomics data.
+This maintenance release does not change source data, analytical
+responses, derived numerical results, statistical tests, multiplicity
+procedures, p-values, scientific interpretations or conclusions.
 
-The source workbook is not redistributed.
-
-Corrected source-workbook values are treated as analytical responses,
-not reconstructed participant-level absolute concentrations.
-
-Clinical-group dependent analyses remain conditional on the documented
-indirect source-block reconstruction.
-
-The release does not introduce new causal treatment claims.
+No new inference is introduced.
 
 ## Integrity
 
-The release is derived from the provenance-controlled OX-COMORBID G2A
-analysis chain. Publication figures are the post-visual-QA authoritative
-versions.
+The update is derived from the immutable v1.0.0 release payload and is
+restricted to presentation/layout alignment plus release-provenance
+materialization.
 
 ## Licensing
 
-The repository uses mixed licensing:
+The repository retains its mixed-license model:
 
-- original executable code: MIT;
+- original software/code: MIT;
 - original documentation and metadata: CC BY 4.0;
-- source-derived analytical results and figures: CC BY-NC 3.0.
+- source-derived results and figures: CC BY-NC 3.0.
 
-See `LICENSE.md`, `LICENSE_MAP.tsv` and
-`SOURCE_LICENSE_AND_ATTRIBUTION.md`.
+Per-file licensing is authoritative in `LICENSE_MAP.tsv`.
 
 ## Persistent identifiers
 
-The GitHub repository is:
+GitHub repository:
 
 `https://github.com/rmaghembe1/ox-comorbid-oxysterol-metabolomics`
 
-The Zenodo DOI is intentionally not stated here until the immutable
-`v1.0.0` release has been deposited and the DOI has been verified.
+Prior public Zenodo record for v1.0.0:
+
+`https://zenodo.org/records/23032493`
+
+A version-specific v1.0.1 Zenodo identifier is not predeclared here.

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this computational workflow, please cite the associated manuscript and software release."
 title: "Calibration-constrained longitudinal oxysterol metabolomics reveals coordinated remodeling of multivariate response architecture in hypercholesterolaemia: reproducibility package"
 type: software
-version: 1.0.0
+version: 1.0.1
 authors:
   - family-names: Maghembe
     given-names: Reuben S.

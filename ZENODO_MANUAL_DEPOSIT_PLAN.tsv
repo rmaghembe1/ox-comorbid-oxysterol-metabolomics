@@ -1,7 +1,7 @@
 field	value
-deposit_route	Manual deposit of immutable GitHub v1.0.0 release archive
+deposit_route	Create new Zenodo version from established v1.0.0 record and deposit exact immutable GitHub v1.0.1 release archive
 resource_type	software
-version	v1.0.0
+version	v1.0.1
 access_right	open
 title	Calibration-constrained longitudinal oxysterol metabolomics reveals coordinated remodeling of multivariate response architecture in hypercholesterolaemia: reproducibility package
 creator_1	Maghembe, Reuben S.
@@ -19,6 +19,6 @@ license_1	MIT
 license_2	CC-BY-4.0
 license_3	CC-BY-NC-3.0
 raw_source_workbook_redistributed	NO
-github_release_tag	v1.0.0
+github_release_tag	v1.0.1
 github_release_status	PENDING
 zenodo_doi_status	PENDING

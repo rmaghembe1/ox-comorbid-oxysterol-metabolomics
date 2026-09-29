@@ -147,3 +147,6 @@ publication_assets/tiff/Figure_3_rank_network_rewiring.tiff	CC-BY-NC-3.0	SOURCE_
 publication_assets/tiff/Figure_4_between_block_rank_displacement.tiff	CC-BY-NC-3.0	SOURCE_DERIVED_VISUALIZATION
 publication_assets/tiff/Figure_5_control_anchored_multivariate_departure.tiff	CC-BY-NC-3.0	SOURCE_DERIVED_VISUALIZATION
 publication_assets/tiff/Figure_6_response_scale_sensitivity.tiff	CC-BY-NC-3.0	SOURCE_DERIVED_VISUALIZATION
+analysis/R3G11_v1_0_1_layout_update/OX_G2A_R3G11_v1_0_1_final_figure_generator.py	MIT	ORIGINAL_CODE
+analysis/R3G11_v1_0_1_layout_update/OX_G2A_R3G11_v1_0_1_final_publication_figure_manifest.tsv	CC-BY-4.0	ORIGINAL_DOCUMENTATION_METADATA
+provenance/V1_0_1_LAYOUT_UPDATE.tsv	CC-BY-4.0	ORIGINAL_DOCUMENTATION_METADATA
