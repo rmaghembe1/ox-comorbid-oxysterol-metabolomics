@@ -1,0 +1,9 @@
+Creative Commons Attribution 4.0 International
+
+SPDX identifier: CC-BY-4.0
+
+Canonical license:
+https://creativecommons.org/licenses/by/4.0/
+
+Applies to original project documentation and metadata as specified in
+LICENSE.md and LICENSE_MAP.tsv.

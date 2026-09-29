@@ -1,0 +1,6 @@
+family	components	m	adjustment	familywise_alpha	rule
+PRIMARY_GLOBAL	P1|P2|P3	3	HOLM	0.05	Three prespecified global tests only.
+P2_EDGE_FOLLOWUP	10_UNIQUE_EDGES	10	WESTFALL_YOUNG_MAXT	0.05	Only after global P2 support; reuse exact paired time-swap universe.
+S3_HYPER_ANALYTE_LEVEL	5_ANALYTES	5	HOLM	0.05	Secondary response-scale sensitivity.
+S3_CONTROL_ANALYTE_LEVEL	5_ANALYTES	5	HOLM	0.05	Secondary response-scale sensitivity.
+S4_ANALYTE_LEVEL	5_ANALYTES	5	HOLM	0.05	Secondary non-causal between-block response-scale sensitivity.

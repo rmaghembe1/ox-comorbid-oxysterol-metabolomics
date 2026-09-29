@@ -1,0 +1,26 @@
+OX-COMORBID G2A R2Q P2 EDGE INTERPRETATION BOUNDARIES
+
+GLOBAL CONTEXT
+The P2 global rank-network rewiring test was supported before edge follow-up.
+
+EDGE PROCEDURE
+Ten prespecified unique Spearman-correlation edges were tested.
+Each edge statistic is absolute rho_B-minus-rho_A.
+Exact inference uses all 1024 whole-subject A/B time-label assignments.
+Single-step Westfall-Young maxT controls the ten-edge follow-up family.
+
+LOCALIZATION
+The following edges survive single-step maxT adjustment as supported components of the globally significant P2 rank-network rewiring: 27_OHC--7B_OHC.
+
+DIRECTION
+Signed rho_B-minus-rho_A is retained to describe strengthening or weakening of rank association.
+
+CLAIM BOUNDARIES
+Edge support means a supported component of longitudinal rank-dependence rewiring.
+It does not imply direct biochemical interaction.
+It does not imply causal regulation between the two oxysterol channels.
+It does not establish a causal simvastatin effect.
+It does not imply absolute concentration changes.
+
+SECONDARY ANALYSES
+S1-S4 remain unexecuted in R2Q.

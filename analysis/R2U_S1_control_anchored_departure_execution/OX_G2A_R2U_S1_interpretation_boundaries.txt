@@ -1,0 +1,35 @@
+OX-COMORBID G2A R2U S1 INTERPRETATION BOUNDARIES
+
+RESULT
+The hypercholesterolaemic block shows a statistically supported reduction in multivariate squared departure from the reconstructed control-baseline rank-normal response architecture.
+
+REFERENCE MODEL
+OAS shrinkage = 0.67571536123151377.
+Covariance condition number = 2.244318884122575.
+The reference is reconstructed control-baseline statistical response architecture.
+It is not a normative definition of biological homeostasis.
+
+DEPARTURE
+D2 is squared Mahalanobis departure in pooled rank-normal response coordinates.
+Negative Delta D2 means movement toward the statistical reference.
+Positive Delta D2 means movement away from the statistical reference.
+
+INFERENCE
+The tested statistic is absolute mean Delta D2.
+Signed mean Delta D2 provides orientation only.
+All 1024 whole-subject A/B assignments in the hypercholesterolaemic block were enumerated.
+The reference model and rank-normal transformation were fixed during permutation.
+
+PROVENANCE
+Clinical-group mapping remains PROVISIONAL_INDIRECT_HIGH_CONFIDENCE.
+The control-baseline reference uses group identity reconstructed partly from published baseline aggregate oxysterol patterns.
+S1 is therefore provenance-sensitive and is not an independent validation of group identity.
+The exact p-value does not propagate uncertainty in reconstructed group identity.
+
+PROHIBITED INTERPRETATIONS
+Do not call movement toward the reference restoration of homeostasis.
+Do not call it biological normalization.
+Do not infer absolute oxysterol concentration change.
+Do not infer a randomized or causal simvastatin effect.
+
+S3-S4 remain unexecuted.

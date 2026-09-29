@@ -1,0 +1,8 @@
+artifact	field_or_object	locked_type_or_shape
+S2_global_result.tsv	observed_statistic	float
+S2_global_result.tsv	exact_count_ge	integer
+S2_global_result.tsv	exact_permutation_count	184756
+S2_global_result.tsv	exact_p	float
+S2_group_difference_components.tsv	five_analyte_difference_vector	5 signed floats
+S2_subject_rank_displacements.tsv	subject_level_delta_rank	20x5
+S2_permutation_distribution.tsv	global_statistic	184756 rows

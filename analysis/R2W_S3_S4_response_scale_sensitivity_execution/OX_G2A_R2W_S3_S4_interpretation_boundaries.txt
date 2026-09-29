@@ -1,0 +1,40 @@
+OX-COMORBID G2A R2W S3/S4 INTERPRETATION BOUNDARIES
+
+STATUS
+S3 and S4 are secondary response-scale sensitivity analyses.
+
+VALUE SCALE
+All results use internal-standard-normalized CPS-derived analytical response.
+Subject response equals natural log(response_B / response_A).
+Do not call these concentration fold-changes.
+
+S3 HYPER
+Holm-supported analytes: 24S_OHC, 25_OHC, 27_OHC, 7B_OHC, 7_KC.
+The exact p-values use complete subject-level sign-flip reference distributions.
+These are not design-based randomized-treatment tests.
+
+S3 CONTROL
+Holm-supported analytes: NONE.
+The same response-scale and permutation limitations apply.
+
+S4
+Holm-supported between-block analytes: 24S_OHC, 25_OHC, 27_OHC, 7B_OHC, 7_KC.
+S4 enumerates all C(20,10)=184756 group-label allocations.
+Its p-values are conditional label-permutation references under exchangeability.
+
+PROVENANCE
+Clinical-group mapping remains PROVISIONAL_INDIRECT_HIGH_CONFIDENCE.
+Baseline oxysterol information contributed to reconstruction of group identity.
+The response ratio also contains baseline in its denominator.
+Therefore S4 is not independent validation of the reconstructed clinical groups.
+S3 group-specific sensitivity results are likewise interpreted conditional on the reconstructed block identities.
+
+CAUSALITY
+The hypercholesterolaemic block and intervention exposure are inseparable.
+No S3 or S4 result establishes a randomized or causal simvastatin effect.
+
+CONCENTRATION
+No log response result is an ng/mL effect or authentic-analyte concentration fold-change.
+
+NEXT PHASE
+No additional inferential families should be added before an integrated result freeze.

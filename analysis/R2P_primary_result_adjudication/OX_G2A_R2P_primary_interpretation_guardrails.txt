@@ -1,0 +1,41 @@
+OX-COMORBID G2A R2P PRIMARY-RESULT INTERPRETATION GUARDRAILS
+
+PRIMARY RESULTS
+P1 supported: coordinated longitudinal directional topology.
+P2 supported: global rank-dependence architecture changed.
+P3 supported: coherent multivariate displacement in rank space.
+
+P1 ORIENTATION
+All five analyte direction components are negative.
+27-OHC, 7beta-OHC and 7-KC decrease in all 10 hypercholesterolaemic subjects.
+
+P3 ORIENTATION
+All five mean rank-score displacement components are negative.
+
+P2
+Global P2 support opens the prespecified hierarchical edge-followup gate.
+R2O edge deltas remain descriptive until maxT-adjusted edge inference is executed.
+Do not label any individual edge statistically supported before that execution.
+
+PERMITTED PRIMARY LANGUAGE
+Use: coordinated longitudinal analytical-response shift.
+Use: rank-dependence rewiring.
+Use: multivariate rank-space displacement.
+
+PROHIBITED LANGUAGE
+Do not claim absolute oxysterol concentration reduction.
+Do not claim restoration or normalization of homeostasis yet.
+Do not claim causal simvastatin effects.
+Do not describe baseline group separation as an independent discovery.
+
+EXACT TESTING
+P1 and P3 attain the theoretical 2/1024 floor imposed by global complement symmetry.
+P2 has 4/1024 assignments at least as extreme as observed.
+
+SECONDARY ANALYSES
+S1-S4 remain unexecuted.
+
+P2 EDGE FOLLOW-UP
+Use single-step Westfall-Young maxT over exactly 10 edges.
+Use the complete 1024-assignment paired time-swap universe.
+No Monte Carlo sampling and no plus-one correction.

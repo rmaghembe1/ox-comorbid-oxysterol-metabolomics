@@ -1,0 +1,41 @@
+OX-COMORBID G2A R2T S1 INTERPRETATION GUARDRAILS
+
+S1 PURPOSE
+Quantify longitudinal change in multivariate statistical departure from the reconstructed control-baseline response architecture.
+
+REFERENCE
+The reference is the ten reconstructed control subjects at baseline.
+It is a statistical reference distribution, not a normative definition of biological homeostasis.
+
+COORDINATES
+All 40 observations are mapped analyte-wise into pooled empirical rank-normal coordinates.
+This removes analyte-specific response scale while preserving monotone ordering.
+
+COVARIANCE
+The five-dimensional control-baseline covariance is regularized using the deterministic Oracle Approximating Shrinkage estimator.
+The OAS covariance uses the maximum-likelihood n denominator.
+
+DEPARTURE
+D2 denotes squared Mahalanobis departure in rank-normal response space.
+Delta D2 equals D2 at B minus D2 at A.
+Negative mean Delta D2 means movement toward the statistical reference.
+Positive mean Delta D2 means movement away from the statistical reference.
+
+INFERENCE
+The primary S1 statistic is absolute mean Delta D2.
+The sign is descriptive orientation and is not separately selected or tested.
+Exact inference enumerates all 1024 hyper-subject whole-vector A/B swaps.
+
+PROVENANCE
+Clinical-group identity is PROVISIONAL_INDIRECT_HIGH_CONFIDENCE.
+The control-baseline reference uses a group identity reconstructed partly from baseline aggregate oxysterol patterns.
+Therefore S1 is provenance-sensitive and not an independent validation of group identity.
+The exact p-value does not incorporate uncertainty in group reconstruction.
+
+PROHIBITED LANGUAGE
+Do not call reduced D2 restoration of homeostasis.
+Do not call reduced D2 normalization of biology.
+Do not claim causal simvastatin effects.
+Do not interpret D2 as absolute concentration distance.
+
+R2T EXECUTES NO OBSERVED S1 RESULT.

@@ -1,0 +1,12 @@
+check	status	detail
+RANK_SUM_CONSERVATION	PASS	Each analyte/timepoint rank sum equals 210.
+DISPLACEMENT_COLUMN_SUM_ZERO	PASS	Each analyte longitudinal rank displacement sums to zero across 20 subjects.
+EQUAL_GROUP_ZERO_SUM_IDENTITY	PASS	Control mean displacement equals negative hyper mean displacement.
+OBSERVED_STATISTIC_IDENTITY	PASS	412.44
+ENUMERATION_COUNT	PASS	184756
+OBSERVED_ASSIGNMENT_IDENTITY	PASS	mask=1023
+FAST_ENUMERATION_IDENTITY	PASS	Deterministic assignments reproduced frozen engine exactly.
+GROUP_COMPLEMENT_SYMMETRY	PASS	max_error=0
+EXACT_P_IDENTITY	PASS	64/184756=0.00034640282318300895
+S1_EXECUTED	NO	Control-anchored departure remains unexecuted.
+S3_S4_EXECUTED	NO	Response-scale sensitivities remain unexecuted.

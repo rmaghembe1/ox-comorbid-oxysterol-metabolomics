@@ -1,0 +1,9 @@
+artifact	field_or_object	locked_type_or_shape
+S1_global_result.tsv	observed_abs_mean_delta_D2	float
+S1_global_result.tsv	signed_mean_delta_D2	float
+S1_global_result.tsv	exact_count_ge	integer
+S1_global_result.tsv	exact_permutation_count	1024
+S1_global_result.tsv	exact_p	float
+S1_subject_departures.tsv	D2_A_D2_B_delta_D2	10 subjects
+S1_control_reference.tsv	center_covariance_precision_shrinkage	5D reference model
+S1_permutation_distribution.tsv	global_statistic	1024 rows

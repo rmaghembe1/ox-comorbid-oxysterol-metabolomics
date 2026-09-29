@@ -1,0 +1,19 @@
+OX-COMORBID G2A FINAL LIMITATIONS AND PROVENANCE
+
+1. Clinical-group identity is PROVISIONAL_INDIRECT_HIGH_CONFIDENCE rather than direct subject-level source metadata.
+2. The reconstructed mapping used published baseline aggregate oxysterol patterns.
+3. Baseline case-control separation is therefore descriptive/confirmatory and not independent rediscovery.
+4. S1, S2 and S4 are provenance-sensitive; their p-values do not propagate uncertainty in reconstructed group identity.
+5. Follow-up values were not used to reconstruct the clinical-group labels.
+6. Participant absolute oxysterol concentrations are not established from the workbook.
+7. Corrected workbook values are internal-standard-normalized CPS-derived analytical response.
+8. Log(response_B/response_A) is not an authentic-analyte concentration fold-change.
+9. Treatment exposure is confounded with reconstructed clinical block and time.
+10. No randomized or causal simvastatin-effect claim is authorized.
+11. The control-baseline S1 reference is a statistical reference and not a normative definition of homeostasis.
+12. Cohort size is small: n=10 per reconstructed block.
+13. The analyzed source panel contains five oxysterol channels and does not represent the complete oxysterolome.
+14. Source-dose discrepancy remains unresolved: peer-reviewed paper reports 40 mg/day whereas the Mendeley description reports 50 mg/day.
+15. The 25-OHC internal-standard nomenclature discrepancy remains unresolved: supplement text indicates d6 whereas recovered Prism serialization indicates d7.
+
+These limitations are retained as publication-level reporting requirements.

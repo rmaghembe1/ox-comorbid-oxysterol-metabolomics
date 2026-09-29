@@ -1,0 +1,43 @@
+OX-COMORBID G2A R3A POST-VISUAL-QA CORRECTION LOG
+
+AUTHORITATIVE SCIENTIFIC SOURCE
+The final publication figures derive from the frozen, data-driven R2Z
+figure-generation workflow and its governed analytical source tables.
+
+FIGURES 1, 2, 3, 5 AND 6
+No scientific or visual-content regeneration was performed.
+The final TIFF and PDF files are byte-for-byte copies of the governed
+R2Z outputs.
+The final PNG files are pixel-for-pixel container conversions of the
+governed 600-dpi TIFF rasters, with no resampling.
+
+FIGURE 4
+The only authorized correction was visual layout:
+the panel-C label was moved inward so that the capital letter C is fully
+visible inside the fixed canvas.
+
+Figure 4 was regenerated directly from the frozen S2 numerical sources:
+- S2_global_result.tsv
+- S2_group_difference_components.tsv
+- S2_subject_rank_displacements.tsv
+- S2_permutation_distribution.tsv
+
+No scientific statistic, effect estimate, p-value, permutation result,
+group assignment, analyte identity or scientific interpretation was
+changed or recomputed.
+
+AI-REDRAWN CHAT EXPORTS
+Any image-generation-based redraws produced during chat review are not
+the authoritative scientific figures and are excluded from this final
+publication freeze.
+
+FINAL REQUIRED FORMATS
+PNG
+TIFF
+PDF
+
+INFERENCE STATUS
+No new inference.
+No new hypothesis tests.
+No new p-values.
+No new inferential families.

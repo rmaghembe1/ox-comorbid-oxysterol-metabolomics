@@ -1,0 +1,39 @@
+OX-COMORBID G2A R2V S3/S4 INTERPRETATION GUARDRAILS
+
+PURPOSE
+S3 and S4 are secondary response-scale sensitivity analyses.
+They test whether conclusions remain visible when using the deposited normalized analytical-response magnitudes.
+
+VALUE SCALE
+The input is internal-standard-normalized CPS-derived analytical response.
+Subject response is natural log(response_B / response_A).
+This is a log analytical-response ratio.
+It is not an oxysterol concentration fold-change.
+
+S3
+Hypercholesterolaemic and control groups are analyzed separately.
+Each analyte uses absolute mean log response as its exact-test statistic.
+Signed mean log response gives direction.
+Median, Q1, Q3 and IQR are descriptive robust summaries.
+Each group uses a complete 2^10 subject-level A/B swap universe.
+Holm correction is applied separately across five analytes in each group.
+
+S4
+For each analyte, S4 compares mean subject log response between reconstructed clinical blocks.
+All C(20,10)=184756 complete-subject label allocations are enumerated.
+Holm correction is applied across the five S4 analytes.
+
+PROVENANCE
+Clinical-group mapping remains PROVISIONAL_INDIRECT_HIGH_CONFIDENCE.
+Baseline oxysterol patterns contributed to reconstruction of group identity.
+Because the log response includes baseline in its denominator, S4 is not independent validation of reconstructed group identity.
+S4 inference is conditional on that mapping.
+
+CAUSALITY
+Clinical group and intervention exposure are inseparable.
+No S3 or S4 result establishes a randomized or causal simvastatin effect.
+
+ABSOLUTE CONCENTRATION
+No S3 or S4 statistic may be reported as ng/mL change or concentration fold-change.
+
+R2V COMPUTES NO OBSERVED S3/S4 RESULTS.

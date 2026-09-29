@@ -1,0 +1,8 @@
+artifact	shape_or_scope	content
+S3_hyper_per_analyte.tsv	five analytes	mean_median_IQR_exact_p_Holm_p
+S3_control_per_analyte.tsv	five analytes	mean_median_IQR_exact_p_Holm_p
+S4_between_group_per_analyte.tsv	five analytes	group_means_difference_exact_p_Holm_p
+S3_S4_subject_log_response.tsv	20x5	subject-level natural-log response ratios
+S3_permutation_distributions.tsv	1024 rows	five hyper plus five control statistics
+S4_permutation_distributions.tsv	184756 rows	five between-group statistics
+R2W_S3_S4_execution_qc.tsv	QC	enumeration and multiplicity identities

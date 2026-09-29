@@ -1,0 +1,33 @@
+OX-COMORBID G2A R2S S2 INTERPRETATION BOUNDARIES
+
+ANALYSIS
+S2 compares five-dimensional longitudinal rank-displacement architecture between the reconstructed hypercholesterolaemic and control source blocks.
+
+MEASUREMENT
+The statistic is calibration-robust and uses within-timepoint ranks.
+It does not use participant ng/mL concentrations.
+
+PERMUTATION INFERENCE
+All C(20,10)=184756 possible 10-versus-10 subject-label allocations are enumerated.
+The reported p-value is a complete-enumeration label-permutation reference under exchangeability.
+It is not design-based randomization inference because clinical groups were not randomized.
+
+PROVENANCE SENSITIVITY
+Clinical-group identity is PROVISIONAL_INDIRECT_HIGH_CONFIDENCE.
+The group mapping was reconstructed using published baseline aggregate patterns from these five analytes.
+Baseline ranks also enter the S2 displacement through rank_B-minus-rank_A.
+Therefore S2 is not an independent validation of the reconstructed group labels.
+Its inferential interpretation is conditional on the reconstructed mapping.
+Follow-up values were not used to establish the group mapping.
+
+CLAIM
+A supported S2 result means longitudinal rank-displacement architecture differs between the reconstructed clinical blocks under the specified permutation reference.
+
+PROHIBITED CLAIMS
+Do not call S2 a randomized treatment effect.
+Do not attribute the difference causally to simvastatin.
+Do not interpret rank displacement as absolute concentration change.
+Do not treat the S2 p-value as correcting uncertainty in the reconstructed group mapping.
+
+OTHER SECONDARY ANALYSES
+S1 and S3-S4 remain unexecuted.

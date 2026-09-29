@@ -1,0 +1,35 @@
+OX-COMORBID G2A R2Y FIGURE IMPLEMENTATION CONTRACT
+
+R2Z IS A VISUALIZATION-ONLY GATE.
+
+ALLOWED
+1. Read frozen upstream result tables.
+2. Reformat values for plotting without changing numerical meaning.
+3. Use the three R2Y figure-ready deterministic decompositions.
+4. Sort rows or edges for display when the sorting rule is explicit.
+5. Construct network geometry from frozen Spearman matrices.
+6. Draw exact-null distributions from the already frozen permutation tables.
+
+NOT ALLOWED
+1. No new hypothesis tests.
+2. No new p-values.
+3. No refitting or alternative covariance model.
+4. No alternative multiplicity correction.
+5. No recalculation of P1-P3, P2 maxT, S1, S2, S3 or S4 results.
+6. No new edge selection threshold.
+7. No conversion of analytical response into ng/mL.
+8. No concentration fold-change language.
+9. No causal simvastatin-effect language.
+10. No restoration-of-homeostasis language.
+
+VISUAL-ONLY DERIVATIONS CREATED IN R2Y
+P1 subject directions reproduce the frozen P1 analyte means and counts exactly.
+P3 subject delta-z values reproduce the frozen P3 component means and global statistic exactly.
+
+FIGURE OUTPUTS
+Publication outputs: TIFF 600 dpi, SVG and PDF.
+PNG 200 dpi is QA-only.
+
+QUALITY CONTROL
+Every generated figure must be visually inspected after rasterization.
+No clipped labels, overlapping panels, unreadable legends or inconsistent analyte naming are permitted.

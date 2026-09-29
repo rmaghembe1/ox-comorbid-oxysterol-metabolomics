@@ -1,0 +1,22 @@
+analysis_component	status	minimum_measurement_assumption	mathematical_basis	claim_boundary
+baseline_group_difference_five_oxysterols	DESCRIPTIVE_CONFIRMATORY_ONLY	Any scale	Baseline aggregate pattern was used to reconstruct source-block identity.	Do not present as independent rediscovery.
+paired_direction_A_to_B_per_analyte	AUTHORIZED_CALIBRATION_ROBUST	Strictly monotone analyte response	Direction is preserved under a fixed increasing calibration map.	Interpret as direction of analyte-response change.
+multianalyte_subject_direction_signature	AUTHORIZED_CALIBRATION_ROBUST	Strictly monotone map separately for each analyte	Vector of increase/decrease states does not require common units.	Suitable for response-topology analysis.
+paired_sign_test	AUTHORIZED_CALIBRATION_ROBUST	Strictly monotone analyte response	Uses only direction of paired change.	No concentration magnitude claim.
+spearman_or_kendall_dependence	AUTHORIZED_CALIBRATION_ROBUST	Strictly monotone map separately for each analyte	Rank dependence survives analyte-specific monotone transformations.	Suitable for covariance/dependence rewiring in rank space.
+empirical_copula_or_rank_normal_network	AUTHORIZED_CALIBRATION_ROBUST	Strictly monotone map separately for each analyte	Marginal scale removed before dependence estimation.	Preferred network representation for this dataset.
+within_analyte_rank_displacement_A_to_B	AUTHORIZED_CALIBRATION_ROBUST	Strictly monotone analyte response	Subject ordering within each analyte is preserved.	May quantify ordinal trajectory change.
+paired_corrected_response_difference	AUTHORIZED_RESPONSE_SCALE_ONLY	Deposited response metric	Numerically valid on the source response scale.	Do not label as ng/mL change.
+paired_log_response_ratio	AUTHORIZED_RESPONSE_SCALE_ONLY	Positive deposited response metric	Log(B/A) is valid as a response-scale descriptor.	Do not call it concentration fold-change.
+paired_t_or_linear_mixed_model_on_response	AUTHORIZED_RESPONSE_SCALE_ONLY	Deposited response metric	Valid model of the observed analytical response.	Coefficients remain response-scale effects.
+wilcoxon_signed_rank_on_response	AUTHORIZED_RESPONSE_SCALE_ONLY	Deposited response metric	Valid paired test on observed response magnitudes.	Not claimed to be calibration-invariant.
+standardized_response_effect_size	AUTHORIZED_RESPONSE_SCALE_ONLY	Deposited response metric	Dimensionless standardization permits within-study comparison.	Not an absolute concentration effect.
+pearson_response_correlation	AUTHORIZED_RESPONSE_SCALE_ONLY	Deposited response metric	Valid dependence statistic for observed response.	Prefer rank dependence for calibration robustness.
+correlation_PCA_after_analyte_standardization	AUTHORIZED_RESPONSE_SCALE_ONLY	Analyte-wise standardized response	Removes gross response-unit differences.	Interpret as response-space geometry, not concentration geometry.
+rank_space_homeostatic_departure	AUTHORIZED_CALIBRATION_ROBUST	Rank/copula transformed analytes	Can define multivariate departure without common concentration units.	Potential primary topology metric; regularization required.
+raw_cross_analyte_ratio	NOT_AUTHORIZED	Requires commensurable scale	Analyte-specific response scales are not directly comparable.	Do not construct.
+raw_cross_analyte_sum_or_balance	NOT_AUTHORIZED	Requires commensurable scale	Magnitude is dominated by arbitrary analyte-specific scaling.	Do not construct.
+raw_euclidean_multianalyte_distance	NOT_AUTHORIZED	Requires commensurable scale	Distance depends on arbitrary channel scaling.	Do not construct.
+absolute_ng_per_ml_reconstruction	NOT_AUTHORIZED	Requires authentic-analyte calibration equations	Participant quantitation function not recovered.	Do not infer concentrations.
+concentration_fold_change	NOT_AUTHORIZED	Requires known calibration including intercept behavior	Response ratio is not guaranteed to equal concentration ratio.	Do not report concentration fold-change.
+external_absolute_concentration_harmonization	NOT_AUTHORIZED	Requires common concentration units	Participant values remain response-scale.	Cross-study integration must use scale-free/rank constructs.

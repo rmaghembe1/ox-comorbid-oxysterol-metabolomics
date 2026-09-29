@@ -1,0 +1,9 @@
+analysis_component	status	reason
+clinical_group_labels	AVAILABLE_WITH_PROVENANCE_QUALIFIER	Block identity reconstructed from published baseline aggregates; not direct subject metadata.
+baseline_five_oxysterol_group_separation	NOT_INDEPENDENT_DISCOVERY	The published baseline group pattern was used to resolve block identity.
+absolute_participant_ng_per_ml_analysis	NOT_AUTHORIZED	Authentic-analyte participant quantitation functions have not been established.
+cross_analyte_absolute_concentration_geometry	NOT_AUTHORIZED	Current participant values are analyte-specific analytical responses, not authenticated common concentration units.
+within_analyte_longitudinal_response_analysis	HOLD_FOR_R2L_MEASUREMENT_SCALE_ADJUDICATION	Requires explicit determination of which response-scale transformations preserve valid inference.
+paired_direction_of_change	HOLD_FOR_R2L_MEASUREMENT_SCALE_ADJUDICATION	Do not assume calibration monotonicity/affine structure without explicit evidence gate.
+group_by_time_modeling	HOLD_FOR_R2L_MEASUREMENT_SCALE_ADJUDICATION	Clinical labels are now available, but measurement-scale admissibility remains unresolved.
+disease_statistical_analysis	NOT_YET_AUTHORIZED	R2K is ledger materialization only.

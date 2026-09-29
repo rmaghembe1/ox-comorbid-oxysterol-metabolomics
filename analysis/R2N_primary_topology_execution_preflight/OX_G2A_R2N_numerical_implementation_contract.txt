@@ -1,0 +1,51 @@
+OX-COMORBID G2A R2N NUMERICAL IMPLEMENTATION CONTRACT
+
+ANALYTE ORDER
+24S_OHC
+25_OHC
+27_OHC
+7B_OHC
+7_KC
+
+P1
+s_ij = sign(B_ij - A_ij).
+m_j = arithmetic mean of subject signs.
+T_dir = Euclidean norm of the five-component m vector.
+Whole five-analyte subject vectors are swapped together.
+
+P2
+Spearman correlation is Pearson correlation of average ranks.
+Ties use average ranks.
+T_net is the Euclidean norm of the ten unique upper-triangle rho differences.
+Diagonal entries are excluded.
+Both A and B Spearman matrices are recomputed for every permutation.
+
+P3
+Pool A+B within the hypercholesterolaemic block separately for each analyte.
+Use average 1-based ranks among N=20 values.
+Transform rank r using z = Phi^-1((r-0.5)/20).
+The pooled rank-score mapping is fixed because whole-subject A/B swaps preserve the pooled values.
+T_centroid is the Euclidean norm of mean subject Delta-z vector.
+
+EXACT ENUMERATION
+Mask 0 is the observed A/B assignment.
+Masks 0 through 1023 exhaust all 2^10 whole-subject time-label assignments.
+No Monte Carlo sampling is permitted for P1-P3.
+
+TAIL RULE
+Primary statistics are non-negative magnitude statistics.
+Use upper-tail count T_perm >= T_obs.
+Numerical comparison tolerance = 1e-12 * max(1, abs(T_obs)).
+Because the entire permutation universe is enumerated and includes the observed assignment, exact p = count_ge / 1024.
+Do not add an additional +1 correction.
+
+MULTIPLICITY
+Apply Holm adjustment jointly to exactly P1, P2 and P3.
+
+CLAIM BOUNDARIES
+P1-P3 describe longitudinal analytical-response topology.
+They do not estimate absolute oxysterol concentration changes.
+They do not establish a randomized causal simvastatin effect.
+Clinical-group mapping remains PROVISIONAL_INDIRECT_HIGH_CONFIDENCE.
+
+R2N CONTAINS NO OBSERVED TEST RESULTS.

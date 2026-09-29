@@ -1,0 +1,64 @@
+OX-COMORBID G2A R2M REPORTING AND INTERPRETATION CONTRACT
+
+DATA IDENTITY
+Clinical-group mapping: PROVISIONAL_INDIRECT_HIGH_CONFIDENCE.
+Direct subject-level group metadata: NO.
+IDs 1-10: hypercholesterolaemic source block.
+IDs 11-20: control source block.
+
+MEASUREMENT
+Primary value layer: internal-standard-normalized CPS-derived analytical response.
+Absolute participant ng/mL: NOT ESTABLISHED.
+Never relabel corrected response values as concentration.
+
+PRIMARY ANALYSES
+P1 = multianalyte directional topology.
+P2 = rank-network rewiring.
+P3 = rank-centroid displacement.
+All three use exhaustive subject-level paired randomization.
+Holm controls the three-test primary family at alpha=0.05.
+
+P1
+Use five-component mean sign vector and its Euclidean norm.
+Report component orientations with the global statistic.
+
+P2
+Use Spearman dependence matrices.
+Primary test is global off-diagonal Frobenius displacement.
+Ten edge-level results are hierarchical follow-up only.
+
+P3
+Use pooled within-analyte A+B average ranks within the hypercholesterolaemic block.
+Transform rank r among N=20 values as Phi^-1((r-0.5)/20).
+Rank transformation is fixed before label permutation.
+
+HOMEOSTATIC DEPARTURE
+Control-anchored rank-space departure is secondary/provenance-sensitive.
+Call it statistical departure from reconstructed control-baseline response architecture.
+Do not call it dysfunction.
+
+TREATMENT / CAUSAL LANGUAGE
+Only the hypercholesterolaemic group received the reported intervention.
+Clinical group and intervention exposure are therefore inseparable in this dataset.
+Between-block longitudinal differences are associations, not randomized causal effects.
+Within-hyper longitudinal changes may reflect intervention, time, baseline severity, regression to the mean, or combinations thereof.
+
+BASELINE
+Baseline five-analyte case-control separation is descriptive/confirmatory only.
+It contributed to source-block clinical identity reconstruction.
+
+RESPONSE-SCALE SENSITIVITY
+log(B/A) means log analytical-response ratio only.
+Never call response ratio concentration fold-change.
+
+PROHIBITED
+No participant ng/mL reconstruction.
+No raw cross-analyte ratios.
+No raw cross-analyte sums or balances.
+No raw Euclidean geometry across analyte response magnitudes.
+
+DOSE METADATA
+Public-source exact-dose discrepancy remains unresolved.
+No dose-response analysis or exact-dose-derived variable is authorized.
+
+NO STATISTICAL TESTING EXECUTED IN R2M.

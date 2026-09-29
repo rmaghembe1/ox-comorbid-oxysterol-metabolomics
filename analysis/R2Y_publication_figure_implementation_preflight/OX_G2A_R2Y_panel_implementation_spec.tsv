@@ -1,0 +1,24 @@
+figure	panel	content	visual_form	source	implementation_boundary
+Figure_1	A	Study_design	SCHEMATIC	study_design_summary	No biological outcome magnitude shown
+Figure_1	B	Five_analyte_panel	SCHEMATIC	study_design_summary	24S-OHC|25-OHC|27-OHC|7beta-OHC|7-KC
+Figure_1	C	Measurement_scale_contract	SCHEMATIC	limitations_and_provenance	CPS-derived response versus unavailable absolute concentration
+Figure_1	D	Inferential_hierarchy	SCHEMATIC	integrated_claims_ledger	Primary to hierarchical to secondary to sensitivity
+Figure_2	A	Subject_direction_matrix	HEATMAP_DISCRETE	P1_subject_direction_matrix	-1 decrease; 0 unchanged; +1 increase
+Figure_2	B	P1_mean_sign_vector	DOT_OR_LOLLIPOP	P1_direction_components	Frozen mean-sign components only
+Figure_2	C	P3_subject_rank_score_displacement	HEATMAP_CONTINUOUS	P3_subject_rank_score_displacement	Delta-z=B-minus-A pooled rank-normal score
+Figure_2	D	P1_P3_exact_null	ECDF_OR_HISTOGRAM	primary_permutation_distributions	Observed lines from frozen primary results
+Figure_3	A	Baseline_rank_network	NETWORK	P2_rank_network_A	Fixed node layout shared with panel B
+Figure_3	B	Followup_rank_network	NETWORK	P2_rank_network_B	Fixed node layout shared with panel A
+Figure_3	C	Delta_rho_matrix	SYMMETRIC_HEATMAP	P2_edge_deltas	Signed rho_B-minus-rho_A
+Figure_3	D	Hierarchical_edge_results	RANKED_DOT_PLOT	P2_exact_maxT_results	All ten edges shown; supported edge identified without hiding others
+Figure_4	A	S2_group_difference_vector	LOLLIPOP	S2_group_difference_components	Hyper-minus-control rank displacement
+Figure_4	B	S2_subject_displacement	HEATMAP	S2_subject_rank_displacements	Twenty subjects by five analytes
+Figure_4	C	S2_exact_null	ECDF_OR_HISTOGRAM	S2_permutation_distribution	Observed statistic and exact p from frozen S2 global result
+Figure_5	A	Paired_D2_trajectories	PAIRED_LINE	S1_subject_departures	Ten hyper subjects
+Figure_5	B	Subject_delta_D2	SORTED_DOT_OR_WATERFALL	S1_subject_departures	Negative means toward statistical reference
+Figure_5	C	Reference_covariance	HEATMAP_PLUS_DIAGNOSTICS	S1_control_reference	Report OAS shrinkage and condition number
+Figure_5	D	S1_exact_null	ECDF_OR_HISTOGRAM	S1_permutation_distribution	Absolute mean delta-D2 test; signed orientation separately
+Figure_6	A	S3_hyper_response	ROBUST_INTERVAL_DOT	S3_hyper_results	Axis must say ln analytical response B/A
+Figure_6	B	S3_control_response	ROBUST_INTERVAL_DOT	S3_control_results	No claim of biological invariance
+Figure_6	C	S4_between_block_contrast	DOT_PLOT	S4_results	Conditional on reconstructed mapping
+Figure_6	D	Support_matrix	BINARY_MATRIX	S3_hyper|S3_control|S4	Rows are frozen Holm families; five analytes as columns

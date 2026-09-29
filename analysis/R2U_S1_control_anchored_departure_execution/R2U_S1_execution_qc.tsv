@@ -1,0 +1,12 @@
+check	status	detail
+POOLED_40_RANK_IDENTITY	PASS	Each analyte contains pooled ranks 1 through 40 exactly.
+REFERENCE_MODEL_POSITIVE_DEFINITE	PASS	shrinkage=0.67571536123151377;condition_number=2.244318884122575
+PRECISION_IDENTITY	PASS	max_abs_error=2.2204460492503131e-16
+MEAN_DELTA_IDENTITY	PASS	-13.266026918473074
+ABSOLUTE_STATISTIC_IDENTITY	PASS	13.266026918473074
+MASK_ZERO_OBSERVED_IDENTITY	PASS	Permutation mask zero reproduces observed signed and absolute statistics.
+SIGN_FLIP_ENGINE_IDENTITY	PASS	abs_error=0;signed_error=0
+SWAPCOUNT_BINOMIAL_IDENTITY	PASS	Counts equal C(10,k), k=0..10.
+S1_COMPLEMENT_SYMMETRY	PASS	abs_sym_error=0;signed_antisym_error=0
+EXACT_P_IDENTITY	PASS	4/1024=0.00390625
+S3_S4_EXECUTED	NO	Response-scale sensitivity analyses remain unexecuted.

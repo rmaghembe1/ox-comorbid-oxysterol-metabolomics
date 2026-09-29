@@ -1,0 +1,9 @@
+property	value	evidence_status	interpretation
+deposited_value	INTERNAL_STANDARD_NORMALIZED_CPS_DERIVED_RESPONSE	ESTABLISHED	Directly validated from workbook formula structure.
+source_formula	raw_analyte_CPS * analyte_specific_constant / internal_standard_CPS	ESTABLISHED	Identity verified for all 40 observations and all five analytes.
+published_assay_calibration	ANALYTE_SPECIFIC_LINEAR_CALIBRATION	SOURCE_SUPPORTED	Publication reports plasma calibration curves with R^2 >= 0.99.
+exact_authentic_analyte_slope	UNKNOWN	NOT_ESTABLISHED	Recovered Prism Figure S1 curves were deuterated-standard curves.
+exact_authentic_analyte_intercept	UNKNOWN	NOT_ESTABLISHED	Recovered Prism Figure S1 curves were deuterated-standard curves.
+participant_absolute_ng_per_ml	UNKNOWN	NOT_ESTABLISHED	No authenticated participant quantitation function recovered.
+cross_analyte_common_metric_scale	NO	NOT_ESTABLISHED	Five response channels have analyte-specific scaling.
+response_positivity	ALL_FIVE_ANALYTES_POSITIVE	ESTABLISHED	Empirically audited in R2K ledger.

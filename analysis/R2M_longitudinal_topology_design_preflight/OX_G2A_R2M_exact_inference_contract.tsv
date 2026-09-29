@@ -1,0 +1,7 @@
+family_id	randomization_unit	population	n_subjects	enumeration_count	enumeration_mode	tail_rule	exact_p_formula	dependence_preservation
+P1	WHOLE_SUBJECT_VECTOR_TIME_SWAP	HYPERCHOLESTEROLAEMIC	10	1024	EXHAUSTIVE	T_perm >= T_observed	count_ge / 1024	All five analytes swapped together within each subject; preserves cross-analyte dependence.
+P2	WHOLE_SUBJECT_VECTOR_TIME_SWAP	HYPERCHOLESTEROLAEMIC	10	1024	EXHAUSTIVE	T_perm >= T_observed	count_ge / 1024	Recompute complete Spearman matrices for every assignment.
+P3	WHOLE_SUBJECT_VECTOR_TIME_SWAP	HYPERCHOLESTEROLAEMIC	10	1024	EXHAUSTIVE	T_perm >= T_observed	count_ge / 1024	Fixed rank-score transform; whole five-analyte vectors swapped by subject.
+S1	WHOLE_SUBJECT_VECTOR_TIME_SWAP	HYPERCHOLESTEROLAEMIC	10	1024	EXHAUSTIVE	T_perm >= T_observed	count_ge / 1024	Reconstructed control-baseline reference fixed.
+S2	WHOLE_SUBJECT_GROUP_LABEL_PERMUTATION	ALL_20_SUBJECTS	20	184756	EXHAUSTIVE	T_perm >= T_observed	count_ge / 184756	Complete subject trajectories permuted; individual observations never split.
+S4	WHOLE_SUBJECT_GROUP_LABEL_PERMUTATION	ALL_20_SUBJECTS	20	184756	EXHAUSTIVE	T_perm >= T_observed	count_ge / 184756	Complete subject-level response vectors permuted.

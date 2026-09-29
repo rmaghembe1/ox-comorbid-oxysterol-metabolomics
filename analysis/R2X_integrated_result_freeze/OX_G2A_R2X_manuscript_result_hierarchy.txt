@@ -1,0 +1,35 @@
+OX-COMORBID G2A INTEGRATED RESULT HIERARCHY
+
+TIER 1 — PRIMARY CALIBRATION-ROBUST RESULTS
+P1: supported coordinated longitudinal directional topology across the five oxysterol analytical-response channels.
+P2: supported global rewiring of five-analyte rank-dependence architecture.
+P3: supported coherent multivariate rank-centroid displacement.
+
+TIER 2 — HIERARCHICAL NETWORK LOCALIZATION
+27-OHC--7beta-OHC is the only edge surviving the prespecified ten-edge single-step maxT family.
+This localizes one component of global P2 rewiring.
+It does not establish direct biochemical interaction or causal regulation.
+
+TIER 3 — SECONDARY CALIBRATION-ROBUST CONTROL-CONTEXT RESULTS
+S2: longitudinal rank-displacement architecture differs between reconstructed clinical blocks.
+S1: multivariate squared statistical departure is reduced toward the reconstructed control-baseline rank-normal response architecture.
+S1 must not be described as restoration of biological homeostasis.
+
+TIER 4 — RESPONSE-SCALE SENSITIVITY
+S3 hyper: all five analytes show Holm-supported negative longitudinal analytical-response trajectories.
+S3 control: no analyte is Holm-supported.
+S4: all five longitudinal analytical-response contrasts differ between reconstructed blocks after Holm correction.
+
+INTEGRATED INTERPRETATION
+The dataset supports coordinated longitudinal remodeling of multivariate oxysterol-response architecture across direction, rank-space location, dependence structure and statistical departure from the reconstructed control-baseline reference.
+
+ANALYTICAL SCALE
+Response-scale results are internal-standard-normalized CPS-derived analytical responses.
+No participant absolute ng/mL concentrations have been reconstructed.
+
+CAUSALITY
+The study does not provide randomized causal evidence for simvastatin.
+Clinical group, intervention exposure, time and baseline disease severity remain inseparable in this source design.
+
+INFERENCE FREEZE
+No new inferential families are authorized after R2W without a new explicit scientific hypothesis and a separately governed reopening decision.

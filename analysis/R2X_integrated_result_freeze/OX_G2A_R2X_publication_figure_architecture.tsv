@@ -1,0 +1,8 @@
+figure	theme	panel_plan	evidence_surface
+Figure_1	Dataset_provenance_and_analysis_architecture	A: study design; B: five analytes; C: measurement-scale contract; D: inferential hierarchy	NO_NEW_INFERENCE
+Figure_2	Primary_longitudinal_topology	A: subject direction matrix; B: P1 mean-sign vector; C: P3 subject rank-space displacement; D: exact null summaries	P1_P3
+Figure_3	Rank_network_rewiring	A: baseline rank network; B: follow-up rank network; C: delta-rho matrix; D: maxT edge results	P2_PLUS_HIERARCHICAL_EDGE
+Figure_4	Between_block_rank_displacement	A: five-component S2 contrast; B: subject displacement heatmap; C: exact permutation distribution	S2
+Figure_5	Control_anchored_multivariate_departure	A: paired D2 trajectories; B: Delta-D2 subjects; C: reference covariance diagnostics; D: exact null distribution	S1
+Figure_6	Response_scale_sensitivity	A: S3 hyper means/robust summaries; B: S3 control; C: S4 contrasts; D: support matrix	S3_S4
+Supplementary	Governance_and_validation	mapping reconstruction; signal formula validation; calibration provenance; permutation QC; exact null distributions; unresolved metadata discrepancies	NO_NEW_INFERENCE

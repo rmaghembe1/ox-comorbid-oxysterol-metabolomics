@@ -1,0 +1,13 @@
+artifact	field_or_object	locked_type_or_shape
+primary_global_results.tsv	family_id	P1|P2|P3
+primary_global_results.tsv	observed_statistic	float
+primary_global_results.tsv	exact_count_ge	integer
+primary_global_results.tsv	exact_permutation_count	1024
+primary_global_results.tsv	exact_p_raw	float
+primary_global_results.tsv	holm_p_adjusted	float
+P1_direction_components.tsv	mean_sign_by_analyte	five signed floats
+P2_rank_network_A.tsv	spearman_matrix	5x5
+P2_rank_network_B.tsv	spearman_matrix	5x5
+P2_edge_deltas.tsv	delta_rho	10 unique edges
+P3_rank_centroid_components.tsv	mean_delta_z	five signed floats
+primary_permutation_distributions.tsv	P1_P2_P3_statistics	1024 rows

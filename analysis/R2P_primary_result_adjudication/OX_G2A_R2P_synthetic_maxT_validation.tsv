@@ -1,0 +1,4 @@
+edge	observed_abs_statistic	expected_maxT_p	computed_maxT_p	status
+SYNTHETIC_EDGE_1	0.8	0.25	0.25	PASS
+SYNTHETIC_EDGE_2	0.2	0.75	0.75	PASS
+SYNTHETIC_EDGE_3	0.1	1.0	1.0	PASS

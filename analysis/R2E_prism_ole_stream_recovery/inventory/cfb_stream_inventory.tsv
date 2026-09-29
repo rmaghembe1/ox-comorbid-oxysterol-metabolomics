@@ -1,0 +1,6 @@
+index	name	storage	bytes	chain_length	sha256	path
+1	Ole	MINI	20	1	b2162bc27b0f5b3a55a79fb5e0763e0321dc8de86ad59054d6aafc4b01eaad47	/mnt/d/OX_COMORBID/01_data/derived/G2A_simvastatin/R2E_prism_ole_stream_recovery/streams/001_Ole.bin
+2	EPRINT	REGULAR	248756	486	922aebc5285ffd700db73d67ee690ad26b4f148196c8698ada3a1c107b8892ed	/mnt/d/OX_COMORBID/01_data/derived/G2A_simvastatin/R2E_prism_ole_stream_recovery/streams/002_EPRINT.bin
+3	CompObj	MINI	104	2	a1db0c3d0b627b73e95f58f7a6e6b0b28412b2fbc2b937d2301eff1eccd2a3f4	/mnt/d/OX_COMORBID/01_data/derived/G2A_simvastatin/R2E_prism_ole_stream_recovery/streams/003_CompObj.bin
+4	ObjInfo	MINI	6	1	c76d13c663d06a97039cc7f187cdd40ef626e4dd7c9e2b10f0ee104e9473c515	/mnt/d/OX_COMORBID/01_data/derived/G2A_simvastatin/R2E_prism_ole_stream_recovery/streams/004_ObjInfo.bin
+5	CONTENTS	REGULAR	1832388	3579	c9dff15b2cfdeb45bafff3d3498ebdb052aebba4c34e3edc43d9dc70d71d262f	/mnt/d/OX_COMORBID/01_data/derived/G2A_simvastatin/R2E_prism_ole_stream_recovery/streams/005_CONTENTS.bin

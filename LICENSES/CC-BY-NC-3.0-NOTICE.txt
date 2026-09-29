@@ -1,0 +1,12 @@
+Creative Commons Attribution-NonCommercial 3.0
+
+SPDX identifier: CC-BY-NC-3.0
+
+Canonical license:
+https://creativecommons.org/licenses/by-nc/3.0/
+
+Applies conservatively to source-derived analytical result surfaces,
+tables and figures as specified in LICENSE.md and LICENSE_MAP.tsv.
+
+Original source dataset:
+DOI 10.17632/6cm8mxm5rm.1

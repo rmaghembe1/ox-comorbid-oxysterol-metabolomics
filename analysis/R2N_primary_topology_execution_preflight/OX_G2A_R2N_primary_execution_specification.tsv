@@ -1,0 +1,5 @@
+component	population	input_surface	engine_function	enumeration	inference_rule	required_output	executed_in_R2N
+P1	HYPERCHOLESTEROLAEMIC	10x5 paired response matrix	p1_directional_topology	1024 whole-subject A/B vector assignments	upper-tail exact	retain T_dir + five signed mean-sign components	NO
+P2	HYPERCHOLESTEROLAEMIC	10x5 paired response matrix	p2_rank_network_rewiring	1024 whole-subject A/B vector assignments	upper-tail exact	retain T_net + R_A + R_B + ten edge deltas	NO
+P3	HYPERCHOLESTEROLAEMIC	10x5 paired response matrix	p3_rank_centroid_displacement	1024 whole-subject A/B vector assignments	upper-tail exact	retain T_centroid + five mean rank-score displacements	NO
+PRIMARY_MULTIPLICITY	P1|P2|P3	three exact p-values	holm_adjust	none	Holm FWER 0.05	retain raw exact p + Holm-adjusted p	NO

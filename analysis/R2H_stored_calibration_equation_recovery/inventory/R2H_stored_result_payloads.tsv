@@ -1,0 +1,51 @@
+analyte	contents_offset	encoding	text
+24	624033	ASCII	Linear reg. of 24:Tabular results
+24	625987	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+24	626371	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+24	627276	ASCII	Column A
+24	628113	ASCII	39856 
+24	628120	ASCII	 1667-4117 
+24	628132	ASCII	 67730.10332.509e-00535777 to 43935-20690 to 12456-0.3332 to 0.49210.989615607571.71, 6<0.0001SignificantY = 39856*X - 411710182
+24	628270	ASCII	39856 
+24	628277	ASCII	 1667-4117 
+24	628289	ASCII	 67730.10332.509e-00535777 to 43935-20690 to 12456-0.3332 to 0.49210.989615607571.71, 6<0.0001SignificantY = 39856*X - 411710182Column A
+25	635579	ASCII	Linear reg. of 25:Tabular results
+25	637533	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+25	637917	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+25	638822	ASCII	Column A
+25	639659	ASCII	45592 
+25	639666	ASCII	 158748.08 
+25	639678	ASCII	 6438-0.0010542.193e-00541708 to 49477-15705 to 15801-0.3651 to 0.32940.992815016824.91, 6<0.0001SignificantY = 45592*X + 48.089181
+25	639819	ASCII	45592 
+25	639826	ASCII	 158748.08 
+25	639838	ASCII	 6438-0.0010542.193e-00541708 to 49477-15705 to 15801-0.3651 to 0.32940.992815016824.91, 6<0.0001SignificantY = 45592*X + 48.089181Column A
+27	647131	ASCII	Linear reg. of 27:Tabular results
+27	649085	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+27	649469	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+27	650374	ASCII	Column A
+27	651211	ASCII	105536 
+27	651219	ASCII	 4372-2994 
+27	651231	ASCII	 177660.028379.475e-00694837 to 116235-46465 to 40477-0.4089 to 0.41730.989840936582.61, 6<0.0001SignificantY = 105536*X - 299410182
+27	651373	ASCII	105536 
+27	651381	ASCII	 4372-2994 
+27	651393	ASCII	 177660.028379.475e-00694837 to 116235-46465 to 40477-0.4089 to 0.41730.989840936582.61, 6<0.0001SignificantY = 105536*X - 299410182Column A
+7beta	658690	ASCII	Linear reg. of 7beta:Tabular results
+7beta	660647	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+7beta	661031	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+7beta	661936	ASCII	Column A
+7beta	662773	ASCII	36906 
+7beta	662780	ASCII	 11386844 
+7beta	662791	ASCII	 4624-0.18542.71e-00534122 to 39691-4470 to 18158-0.5161 to 0.11610.99431065410521, 6<0.0001SignificantY = 36906*X + 684410182
+7beta	662927	ASCII	36906 
+7beta	662934	ASCII	 11386844 
+7beta	662945	ASCII	 4624-0.18542.71e-00534122 to 39691-4470 to 18158-0.5161 to 0.11610.99431065410521, 6<0.0001SignificantY = 36906*X + 684410182Column A
+7keto	670239	ASCII	Linear reg. of 7keto:Tabular results
+7keto	672196	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+7keto	672580	ASCII	 SE    Slope    Y-intercept    X-intercept    1/slope95% Confidence Intervals    Slope    Y-intercept    X-interceptGoodness of Fit    R square    Sy.xIs slope significantly non-zero?    F    DFn, DFd    P value    Deviation from zero?EquationData    Number of X values    Maximum number of Y replicates    Total number of values    Number of missing values
+7keto	673485	ASCII	Column A
+7keto	674322	ASCII	18147 
+7keto	674329	ASCII	 471.21340 
+7keto	674341	ASCII	 1806-0.073835.511e-00517033 to 19261-2930 to 5609-0.3206 to 0.15630.9953451014831, 7<0.0001SignificantY = 18147*X + 134010191
+7keto	674477	ASCII	18147 
+7keto	674484	ASCII	 471.21340 
+7keto	674496	ASCII	 1806-0.073835.511e-00517033 to 19261-2930 to 5609-0.3206 to 0.15630.9953451014831, 7<0.0001SignificantY = 18147*X + 134010191Column A

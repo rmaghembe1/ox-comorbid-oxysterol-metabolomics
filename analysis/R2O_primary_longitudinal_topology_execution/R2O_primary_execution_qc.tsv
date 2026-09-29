@@ -1,0 +1,7 @@
+check	status	detail
+MASK_ZERO_OBSERVED_IDENTITY	PASS	All P1-P3 mask-zero statistics equal observed statistics.
+SWAPCOUNT_BINOMIAL_IDENTITY	PASS	Permutation swap-count histogram equals C(10,k), k=0..10.
+GLOBAL_COMPLEMENT_SYMMETRY	PASS	P1_max_diff=0;P2_max_diff=0;P3_max_diff=0
+EXACT_ENUMERATION_COUNT	PASS	1024
+EDGE_LEVEL_P_VALUES_COMPUTED	NO	R2O stops at the global P2 test.
+SECONDARY_ANALYSES_EXECUTED	NO	S1-S4 remain unexecuted.

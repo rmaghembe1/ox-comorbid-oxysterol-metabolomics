@@ -1,0 +1,10 @@
+property	value
+subjects_total	20
+hypercholesterolaemic_subjects	10
+control_subjects	10
+paired_timepoints	A|B
+analyte_count	5
+analytes	24S_OHC|25_OHC|27_OHC|7B_OHC|7_KC
+measurement_layer	INTERNAL_STANDARD_NORMALIZED_CPS_DERIVED_RESPONSE
+group_mapping_status	PROVISIONAL_INDIRECT_HIGH_CONFIDENCE
+absolute_participant_concentrations	NOT_ESTABLISHED

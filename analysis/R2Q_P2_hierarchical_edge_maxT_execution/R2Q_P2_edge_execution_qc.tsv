@@ -1,0 +1,11 @@
+check	status	detail
+R2O_EDGE_DECOMPOSITION_IDENTITY	PASS	All ten observed edges reproduce frozen R2O rho/delta values.
+P2_GLOBAL_EDGE_NORM_IDENTITY	PASS	1.0322263687778797
+MASK_ZERO_EDGE_IDENTITY	PASS	Signed, absolute, and maxT mask-zero values reproduce observed values.
+EXACT_ENUMERATION_COUNT	PASS	1024
+SWAPCOUNT_BINOMIAL_IDENTITY	PASS	Counts equal C(10,k), k=0..10.
+EDGE_COMPLEMENT_SYMMETRY	PASS	signed_antisym_error=0;abs_sym_error=0;maxT_sym_error=0
+MAXT_ADJUSTED_GE_RAW	PASS	All ten edges.
+MAXT_THRESHOLD_MONOTONICITY	PASS	Single-step maxT adjusted p is monotone with observed threshold.
+SUPPORTED_EDGE_COUNT	PASS	1
+SECONDARY_ANALYSES_EXECUTED	NO	S1-S4 remain unexecuted.

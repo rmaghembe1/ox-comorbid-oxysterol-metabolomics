@@ -1,0 +1,14 @@
+OX-COMORBID G2A R2L NEXT-PHASE GUARDRAILS
+
+1. Treat corrected_signal as internal-standard-normalized CPS-derived analytical response.
+2. Never relabel corrected_signal as ng/mL.
+3. Baseline five-analyte group separation is descriptive/confirmatory only.
+4. Longitudinal A-to-B response was not used for primary group mapping and may be analysed.
+5. Prefer calibration-robust rank/sign/copula quantities for primary topology claims.
+6. Response-scale parametric models may be used as secondary/sensitivity analyses.
+7. A response ratio or log-response ratio is not a concentration fold-change.
+8. Do not compare raw magnitudes between different analytes.
+9. Do not construct raw cross-analyte sums, ratios, or Euclidean distances.
+10. Cross-study integration should use rank/ordinal/dependence constructs unless absolute calibration is later recovered.
+11. Any multivariate covariance/departure model must regularize because n is small relative to the five-dimensional structure.
+12. Group mapping must always retain the qualifier PROVISIONAL_INDIRECT_HIGH_CONFIDENCE.

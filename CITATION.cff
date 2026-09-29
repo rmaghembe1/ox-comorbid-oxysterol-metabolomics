@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this computational workflow, please cite the associated manuscript and software release."
+title: "Calibration-constrained longitudinal oxysterol metabolomics reveals coordinated remodeling of multivariate response architecture in hypercholesterolaemia: reproducibility package"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Maghembe
+    given-names: Reuben S.
+    orcid: "https://orcid.org/0000-0003-2453-5993"
+  - family-names: Bahati
+    given-names: Samweli
+    orcid: "https://orcid.org/0009-0007-2117-9520"
+  - family-names: Makaranga
+    given-names: Abdalah
+    orcid: "https://orcid.org/0000-0002-2842-9672"
+  - family-names: Damian
+    given-names: Donath
+    orcid: "https://orcid.org/0009-0005-6038-766X"
+keywords:
+  - oxysterols
+  - metabolomics
+  - hypercholesterolaemia
+  - longitudinal analysis
+  - permutation inference
+  - reproducibility

@@ -1,0 +1,10 @@
+quantity	value
+N	184756
+min	0.16000000000000003
+max	523.36000000000001
+observed	412.44
+nearest_rank_q0.5	45.880000000000003
+nearest_rank_q0.9	133.56
+nearest_rank_q0.95	173.56
+nearest_rank_q0.975	213.08000000000001
+nearest_rank_q0.99	261.88
