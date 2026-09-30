@@ -3,6 +3,13 @@ message: "If you use this computational workflow, please cite the associated man
 title: "Calibration-constrained longitudinal oxysterol metabolomics reveals coordinated remodeling of multivariate response architecture in hypercholesterolaemia: reproducibility package"
 type: software
 version: 1.0.1
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23032492"
+    description: "Concept DOI for all versions of this reproducibility package."
+  - type: doi
+    value: "10.5281/zenodo.23045385"
+    description: "Version-specific DOI for release v1.0.1."
 authors:
   - family-names: Maghembe
     given-names: Reuben S.

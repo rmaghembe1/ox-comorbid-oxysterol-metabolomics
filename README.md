@@ -94,9 +94,13 @@ The prior v1.0.0 Zenodo record is:
 
 `https://zenodo.org/records/23032493`
 
-A version-specific v1.0.1 Zenodo identifier is not predeclared in this
-package and must be taken from the verified version record after
-publication.
+The verified v1.0.1 Zenodo record is:
+
+`https://zenodo.org/records/23045385`
+
+Version-specific DOI: `10.5281/zenodo.23045385`
+
+Concept DOI for all versions: `10.5281/zenodo.23032492`
 
 ## Licensing
 
